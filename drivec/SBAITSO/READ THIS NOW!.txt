@@ -1,0 +1,2 @@
+The actual file that you need to open containing the Dr. Sbaitso DOS program is under: SBAITSO2.BAT. 
+Double click that file to open the actual DR. Sbaitso program. Thank you! 
