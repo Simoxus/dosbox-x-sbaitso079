@@ -9,9 +9,13 @@ You shouldn't run into any issues, but if you do, feel free to send a direct mes
 ## Usage
 
 **1.** Clone/download this repository (https://github.com/Simoxus/dosbox-x-sbaitso079)
+
 **2.** Extract it
+
 **3.** Open "**dosbox-x.exe**"
+
 **4.** Type "**079**" or "**079.bat**" and hit Enter
+
 **5.** That's literally it, enjoy
 
 ## Features
